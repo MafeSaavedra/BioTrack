@@ -1,8 +1,8 @@
-\# Sistema de Registro y Mantenimiento de Dispositivos Médicos (BioTrack)
+\#Sistema de Registro y Mantenimiento de Dispositivos Médicos (BioTrack)
 
 
 
-\## 🧠 ¿Qué es?
+\##🧠 ¿Qué es?
 
 
 
@@ -18,7 +18,7 @@ Cada dispositivo cuenta con un historial individual y puede ser identificado rá
 
 
 
-\## 🎯 Público Objetivo
+\##Público Objetivo
 
 
 
