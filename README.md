@@ -128,3 +128,11 @@ La primera fase del proyecto se enfocará en el desarrollo de una \*\*aplicació
 
 ---
 
+
+
+\## Diseños Preliminares
+
+!\[BioTrack](./Design/BioTrack-D1.jpg)
+
+
+
